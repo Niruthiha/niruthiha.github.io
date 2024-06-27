@@ -32,3 +32,5 @@
 - **Description**: Designed a web application that provides creative writing prompts to users. The app includes motivational prompts like 'keep going' and 'stop phubbing' in the text editor writing panel.
 - **Features**: The text editor writing panel includes a text area, formatting toolbar, and visible motivational prompts to encourage continuous writing.
 
+### Google Colab
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)

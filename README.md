@@ -27,6 +27,7 @@
 #### Project 1: Alzheimer's Caregiver Support Chatbot
 - **Description**: Developed a chatbot using NLP (Llama3 model) for providing support to Alzheimer's caregivers. The chatbot offers custom prompting, response generation, supplementary resources, and continuous improvement.
 - **Inspiration**: Alzheimer's Society's Walk Toronto 2024 event.
+---
 
 #### Project 2: Creative Writing Web App
 - **Description**: Designed a web application that provides creative writing prompts to users. The app includes motivational prompts like 'keep going' and 'stop phubbing' in the text editor writing panel.

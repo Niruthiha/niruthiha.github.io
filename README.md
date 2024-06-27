@@ -27,13 +27,8 @@
 #### Project 1: Alzheimer's Caregiver Support Chatbot
 - **Description**: Developed a chatbot using NLP (Llama3 model) for providing support to Alzheimer's caregivers. The chatbot offers custom prompting, response generation, supplementary resources, and continuous improvement.
 - **Inspiration**: Alzheimer's Society's Walk Toronto 2024 event.
----
-
-#### Project 2: Creative Writing Web App
-- **Description**: Designed a web application that provides creative writing prompts to users. The app includes motivational prompts like 'keep going' and 'stop phubbing' in the text editor writing panel.
-- **Features**: The text editor writing panel includes a text area, formatting toolbar, and visible motivational prompts to encourage continuous writing.
-
-#### Project 2: Car Price Prediction Using Python
+--
+#### Car Price Prediction Using Python
 [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
 - **Description**: In this project, I used various machine learning algorithms to predict car prices. After extensive analysis and testing, the XGBooster Regressor stood out as the best performer, even without any optimization. This repository contains the code and methodologies used in the project, along with detailed explanations of each step.
 ![82423Screenshot from 2021-07-25 11-12-24](https://github.com/Niruthiha/portfolio/assets/157150830/245bd242-f54b-463f-8632-4f280d7a000a)

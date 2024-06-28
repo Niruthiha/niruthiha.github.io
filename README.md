@@ -1,15 +1,6 @@
-## Data Scientist Profile
-
-### Technical Skills
-- Python
-- SQL
-- AWS
-- Snowflake
-- MATLAB
-
 ### Education
-- **M.S., Information Systems, Specializing in Data Science and Machine Learning Systems Engineering** | Northeastern University (April 2025)
-- **B.S., Mathematics and Statistics** | University of Toronto (April 2023)
+**M.S., Information Systems, Specializing in Data Science and Machine Learning Systems Engineering** | Northeastern University (April 2025)
+**B.S., Mathematics and Statistics** | University of Toronto (April 2023)
 
 ### Projects
 

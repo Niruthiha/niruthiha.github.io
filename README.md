@@ -29,8 +29,8 @@
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://alzheimer-caregiver-support-chatbot.streamlit.app/)
 
 <span style="color:grey">This project implements a chatbot designed to support caregivers of Alzheimer's patients. Leveraging advanced Natural Language Processing (NLP) technology, specifically the Llama3 model, caregivers can seek advice and information related to caregiving challenges. Streamlit: Used for building the web application UI. OpenAI GPT-3 (Llama3 model): Integrated for NLP tasks. Python 3: Programming language used for development.
-- **Inspiration**: Alzheimer's Society's Walk Toronto 2024 event.
-- </span>
+- Inspiration: Alzheimer's Society's Walk Toronto 2024 event.</span>
+
 ![0_iYeyafgUdckW7uxd](https://github.com/Niruthiha/portfolio/assets/157150830/ebf6cc7a-d9ee-4cb7-9174-04e173e1a0e9)
 
 ---

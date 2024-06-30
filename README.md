@@ -5,10 +5,11 @@
 
 -B.S., Mathematics and Statistics | University of Toronto (April 2023)
 
-### Courses
+### Related Courses
 <span style="color:grey">-Application Engineering and Development
--User Experience Design and Testing
+
 -Neural Networks & AI
+
 -Advanved techniques with LLMs </span>
 
 ### Projects

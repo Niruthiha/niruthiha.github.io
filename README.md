@@ -10,7 +10,7 @@
 
 -Neural Networks & AI
 
--Advanved techniques with LLMs </span>
+-Advanved Techniques with LLMs </span>
 
 ### Projects
 

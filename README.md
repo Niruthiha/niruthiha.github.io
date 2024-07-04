@@ -1,8 +1,8 @@
 ## Portfolio
 
 ### Education
-- M.S., Information Systems, Specializing in Data Science and Machine Learning Systems Engineering - Northeastern University (April 2025)
-- B.S., Mathematics and Statistics - University of Toronto (April 2023)
+- **M.S., Information Systems, Specializing in Data Science and Machine Learning Systems Engineering** - Northeastern University (April 2025)
+- **B.S., Mathematics and Statistics** - University of Toronto (April 2023)
 
 ### Related Courses
 <span style="color:grey">

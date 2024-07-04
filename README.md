@@ -8,7 +8,7 @@
 <span style="color:grey">
 - Application Engineering and Development
 - Neural Networks & AI
-- Advanved Techniques with LLMs </span>
+- Advanved Techniques with LLMs 
 
 ### Projects
 

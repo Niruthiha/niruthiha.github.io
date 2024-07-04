@@ -6,9 +6,9 @@
 
 ### Related Courses
 <span style="color:grey">
--Application Engineering and Development
--Neural Networks & AI
--Advanved Techniques with LLMs </span>
+- Application Engineering and Development
+- Neural Networks & AI
+- Advanved Techniques with LLMs </span>
 
 ### Projects
 

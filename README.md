@@ -26,8 +26,7 @@
 
 [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YwIu4swMWVN6OUnK6khOYhvDQ5ZGHrs_?usp=sharing)
 
-<span style="color:grey">In this project, I utilized various machine learning models such as Linear Regression, Decision Trees, Random Forest, k-Nearest Neighbors (k-NN) to predict flight prices. This repository includes the code, methodologies, and detailed explanations for each step of the project
-The project involved splitting the dataset into training and test sets using train_test_split from sklearn.model_selection.
+<span style="color:grey">In this project, I utilized various machine learning models such as Linear Regression, Decision Trees, Random Forest, k-Nearest Neighbors (k-NN) to predict flight prices. This repository includes the code, methodologies, and detailed explanations for each step of the project. The project involved splitting the dataset into training and test sets using train_test_split from sklearn.model_selection.
 
 Initially, I built a basic random model, then iteratively improved it using hyperparameter tuning. A RandomForestRegressor was trained on the data, and performance metrics such as R² score, Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and Mean Absolute Percentage Error (MAPE) were calculated. The model was then saved using pickle for future predictions.
 
@@ -42,6 +41,6 @@ This repository includes the code, methodologies, and detailed explanations for 
 #### Car Price Prediction Using Python
 [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SinqVM57qOh1jllP6DdEwcExAhTXIBv4?usp=sharing)
 
-<span style="color:grey">In this project, I used various machine learning algorithms to predict flight prices. After extensive analysis and testing, the XGBooster Regressor stood out as the best performer, even without any optimization. This repository contains the code and methodologies used in the project, along with detailed explanations of each step.
+<span style="color:grey">In this project, I used various machine learning algorithms to predict car prices. After extensive analysis and testing, the XGBooster Regressor stood out as the best performer, even without any optimization. This repository contains the code and methodologies used in the project, along with detailed explanations of each step.
 ![82423Screenshot from 2021-07-25 11-12-24](https://github.com/Niruthiha/portfolio/assets/157150830/245bd242-f54b-463f-8632-4f280d7a000a)
 

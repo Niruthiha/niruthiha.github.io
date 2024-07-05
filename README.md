@@ -26,7 +26,15 @@
 
 [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YwIu4swMWVN6OUnK6khOYhvDQ5ZGHrs_?usp=sharing)
 
-<span style="color:grey">In this project, I used various machine learning algorithms to predict flight prices. After extensive analysis and testing, the XGBooster Regressor stood out as the best performer, even without any optimization. This repository contains the code and methodologies used in the project, along with detailed explanations of each step.</span>
+<span style="color:grey">In this project, I utilized various machine learning models such as Linear Regression, Decision Trees, Random Forest, k-Nearest Neighbors (k-NN) to predict flight prices. This repository includes the code, methodologies, and detailed explanations for each step of the project
+The project involved splitting the dataset into training and test sets using train_test_split from sklearn.model_selection.
+
+Initially, I built a basic random model, then iteratively improved it using hyperparameter tuning. A RandomForestRegressor was trained on the data, and performance metrics such as R² score, Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and Mean Absolute Percentage Error (MAPE) were calculated. The model was then saved using pickle for future predictions.
+
+To automate the machine learning pipeline, custom evaluation metrics were defined, and the process was streamlined to provide comprehensive results including training score, predictions, and various error metrics. Hyperparameter tuning was conducted using RandomizedSearchCV to optimize the model parameters.
+
+This repository includes the code, methodologies, and detailed explanations for each step of the project, providing insights into the entire machine learning workflow from data preprocessing to model evaluation and deployment
+</span>
 ![Screenshot 2024-07-05 114600](https://github.com/Niruthiha/portfolio/assets/157150830/c21b1e82-34ae-47c7-9c46-6b8d6fdf6572)
 
 
@@ -34,6 +42,6 @@
 #### Car Price Prediction Using Python
 [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SinqVM57qOh1jllP6DdEwcExAhTXIBv4?usp=sharing)
 
-<span style="color:grey">In this project, I utilized various machine learning models such as Linear Regression, Decision Trees, Random Forest, k-Nearest Neighbors (k-NN) to predict flight prices. This repository includes the code, methodologies, and detailed explanations for each step of the project/span>
+<span style="color:grey">In this project, I used various machine learning algorithms to predict flight prices. After extensive analysis and testing, the XGBooster Regressor stood out as the best performer, even without any optimization. This repository contains the code and methodologies used in the project, along with detailed explanations of each step.
 ![82423Screenshot from 2021-07-25 11-12-24](https://github.com/Niruthiha/portfolio/assets/157150830/245bd242-f54b-463f-8632-4f280d7a000a)
 

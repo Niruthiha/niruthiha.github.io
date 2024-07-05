@@ -22,6 +22,15 @@
 ![0_iYeyafgUdckW7uxd](https://github.com/Niruthiha/portfolio/assets/157150830/ebf6cc7a-d9ee-4cb7-9174-04e173e1a0e9)
 
 ---
+#### Flight Price Prediction
+
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YwIu4swMWVN6OUnK6khOYhvDQ5ZGHrs_?usp=sharing)
+
+<span style="color:grey">In this project, I used various machine learning algorithms to predict flight prices. After extensive analysis and testing, the XGBooster Regressor stood out as the best performer, even without any optimization. This repository contains the code and methodologies used in the project, along with detailed explanations of each step.</span>
+![Screenshot 2024-07-05 114600](https://github.com/Niruthiha/portfolio/assets/157150830/c21b1e82-34ae-47c7-9c46-6b8d6fdf6572)
+
+
+---
 #### Car Price Prediction Using Python
 [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SinqVM57qOh1jllP6DdEwcExAhTXIBv4?usp=sharing)
 

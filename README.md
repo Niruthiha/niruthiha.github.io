@@ -58,6 +58,12 @@ This project involved leveraging SQL for efficient data management and retrieval
 ![sddefault](https://github.com/user-attachments/assets/4a3ba9f7-5a8f-481b-a6d5-749306770c38)
 
 ---
+#### Sales Analysis Dashboard in Power BI
+[![Open in Power BI](https://app.powerbi.com/view?r=eyJrIjoiMWIxNWM5YzktYTNmYS00NjFjLWE1ZjUtYTM4NDI2OGQwMjM0IiwidCI6ImE4ZWVjMjgxLWFhYTMtNGRhZS1hYzliLTlhMzk4YjkyMTVlNyIsImMiOjN9)
+![image](https://github.com/user-attachments/assets/de89705f-3012-45ce-882e-9efb2f4b3419)
+
+
+---
 #### Car Price Prediction Using Python
 [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SinqVM57qOh1jllP6DdEwcExAhTXIBv4?usp=sharing)
 

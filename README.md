@@ -46,6 +46,18 @@ This repository includes the code, methodologies, and detailed explanations for 
 
 
 ---
+#### NLP Password Strength
+
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CxT_4dFdMGnK5RnmbgtDhUgsFks4O93s?usp=sharing)
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-blue?logo=github)](https://github.com/Niruthiha/NLP_password_strength/blob/main/README.md)
+
+This project effectively classifies passwords into strength categories, providing a robust model for predicting password strength. The models demonstrated high accuracy and reliability, offering valuable insights for enhancing password security. This project showcases the application of NLP and machine learning to a critical cybersecurity problem. The comprehensive approach from data integration to model evaluation with complex datasets, apply advanced analytical techniques, and deliver impactful solutions in the field of cybersecurity.
+
+This project involved leveraging SQL for efficient data management and retrieval from various sources. Robust data cleaning techniques were implemented to ensure high-quality and consistent data for analysis. In-depth semantic analysis was performed to understand linguistic patterns within passwords. Meaningful features were engineered from the password data to enhance the model's predictive capabilities. Term Frequency-Inverse Document Frequency (TF-IDF) was applied to transform text data into numerical features suitable for machine learning models. Logistic regression and other classification algorithms were utilized to predict password strength, and thorough model evaluation was conducted using accuracy metrics to assess performance and ensure reliability. Technologies used in this project include Python, Pandas, Scikit-learn, NLTK, and SQL.
+
+![sddefault](https://github.com/user-attachments/assets/4a3ba9f7-5a8f-481b-a6d5-749306770c38)
+
+---
 #### Car Price Prediction Using Python
 [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SinqVM57qOh1jllP6DdEwcExAhTXIBv4?usp=sharing)
 

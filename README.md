@@ -7,7 +7,7 @@
 ### Related Courses
 <span style="color:grey">
 - Application Engineering and Development
-- Neural Networks & AI
+- Prompt Engineering
 - Advanved Techniques with LLMs 
 
 ### Projects

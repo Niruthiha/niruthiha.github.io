@@ -15,7 +15,7 @@
 #### Climate Change Chatbot
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://m9c2pz0j-8501.use.devtunnels.ms/)
 [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-blue?logo=github)](https://github.com/Niruthiha/Chatbot-RAG-Vector-Database)
-[![Watch the video](https://img.shields.io/badge/Open%20in-GitHub-blue?logo=github)](https://youtu.be/Xx-mtNaRHeI)
+[![Click Here to Watch Demo Video](https://img.shields.io/badge/Watch-Demo%20Video-red)](https://youtu.be/Xx-mtNaRHeI)
 
 The Climate Change Chatbot is an interactive tool designed to provide users with information about climate change using advanced natural language processing techniques. By leveraging a Retrieval-Augmented Generation (RAG) approach, this chatbot utilizes a combination of a vector database and OpenAI's language model to deliver accurate and relevant responses based on user queries. Utilizing the GPT-3.5-turbo model, the chatbot generates context-aware responses based on the queried information. The data used for the Climate Change Chatbot is derived from the IPCC AR6 WGII Technical Summary (IPCC_AR6_WGII_TechnicalSummary.pdf). This technical summary complements and expands on the key findings of the Working Group II contribution to the Sixth Assessment Report (AR6), providing essential insights into climate change impacts and responses. The retrieval process is what makes RAG unique. 
 

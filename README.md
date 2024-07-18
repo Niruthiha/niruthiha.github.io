@@ -39,7 +39,7 @@ In the below diagram, the documents repository represents the vector database th
 #### LoRA Fine-Tuning on Llama-2-7b
 [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-blue?logo=github)](https://github.com/Niruthiha/lora_model)
 
-Low-Rank Adaptation (LoRA) for efficient AI model fine-tuningcapplied to the cutting-edge Llama 1.1B model, utilizing the diverse Guanaco chat dataset. LoRA’s revolutionary approach enables the customization of large language models on consumer-grade GPUs, democratizing access to advanced AI technology by optimizing memory usage and computational efficiency, leveraging its Parameter-Efficient Fine-Tuning Library alongside the intuitive HuggingFace Trainer. This combination not only streamlines the fine-tuning process but also significantly enhances learning efficiency and model performance on datasets.
+Low-Rank Adaptation (LoRA) for efficient AI model fine-tuningcapplied to the cutting-edge Llama-2-7b model, utilizing the diverse Guanaco chat dataset. LoRA’s revolutionary approach enables the customization of large language models on consumer-grade GPUs, democratizing access to advanced AI technology by optimizing memory usage and computational efficiency, leveraging its Parameter-Efficient Fine-Tuning Library alongside the intuitive HuggingFace Trainer. This combination not only streamlines the fine-tuning process but also significantly enhances learning efficiency and model performance on datasets.
 
 ![image](https://github.com/user-attachments/assets/c15149f3-6bca-4019-a6d1-0db8774b2117)
 

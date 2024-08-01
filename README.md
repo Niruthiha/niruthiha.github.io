@@ -26,7 +26,7 @@ In the below diagram, the documents repository represents the vector database th
 
 #### Direct Preference Optimization (DPO)
 
-[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://docs.google.com/document/d/1meeKVeifyFPtBGgSr-JhXs2qgMcWmHZjL16W4xWdcqI/edit?usp=sharing)
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kp9OW6V3LmIj3kEqH-DXZXCGhD9Ha5F9#scrollTo=trnveKvN2ORF)
 
 I focused on generating a preference dataset using PairRM and fine-tuning the Mistral-7B-Instruct model with Direct Preference Optimization (DPO), a powerful training recipe utilized by top models according to Alpaca Eval.
 

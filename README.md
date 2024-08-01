@@ -12,7 +12,7 @@
 
 ### Projects
 
-#### Climate Change Chatbot
+#### Climate Change Chatbot with RAG 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://m9c2pz0j-8501.use.devtunnels.ms/)
 [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-blue?logo=github)](https://github.com/Niruthiha/Chatbot-RAG-Vector-Database)
 [![Click Here to Watch Demo Video](https://img.shields.io/badge/Watch-Demo%20Video-red)](https://youtu.be/Xx-mtNaRHeI)
@@ -23,6 +23,20 @@ In the below diagram, the documents repository represents the vector database th
 
 ![image](https://github.com/user-attachments/assets/d3ce5ffb-78a9-4eca-b17f-84c33f6d5fb5)
 
+
+#### Direct Preference Optimization (DPO)
+
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://docs.google.com/document/d/1meeKVeifyFPtBGgSr-JhXs2qgMcWmHZjL16W4xWdcqI/edit?usp=sharing)
+
+I focused on generating a preference dataset using PairRM and fine-tuning the Mistral-7B-Instruct model with Direct Preference Optimization (DPO), a powerful training recipe utilized by top models according to Alpaca Eval.
+
+DPO is a simplification RLHF, but is simpler to train and more performant.
+RLHF: SFT -> Train Reward Model -> Maximize Reward
+DPO: SFT -> Increase/decrease likelihoods of preferable/unpreferable results
+DPO is nice because it only requires 2 models instead of 3, avoid doing RL (PPO in this case), and avoids the noisy reward model approximation.
+
+![image](https://github.com/user-attachments/assets/dd8cac2b-0b84-4147-8e25-1c93b6f96fde)
+![image](https://github.com/user-attachments/assets/d8be3891-758b-4f7a-b217-09978f095237)
 
 
 

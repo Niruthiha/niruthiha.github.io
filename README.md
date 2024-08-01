@@ -30,11 +30,7 @@ In the below diagram, the documents repository represents the vector database th
 
 I focused on generating a preference dataset using PairRM and fine-tuning the Mistral-7B-Instruct model with Direct Preference Optimization (DPO), a powerful training recipe utilized by top models according to Alpaca Eval. I sampled 10 new instructions that were not seen during the training phase. For each instruction, generated completions using both the original model and the DPO fine-tuned model, then compared the results and displayed the instruction along with completions from both models in a pandas DataFrame. This comparison allowed me to assess the improvements made by the fine-tuning process.
 
-- DPO is a simplification RLHF, but is simpler to train and more performant.
-- RLHF: SFT -> Train Reward Model -> Maximize Reward
-- DPO: SFT -> Increase/decrease likelihoods of preferable/unpreferable results
-
-DPO is nice because it only requires 2 models instead of 3, avoid doing RL (PPO in this case), and avoids the noisy reward model approximation.
+Instead of training a separate reward model, DPO uses pairwise comparisons of outputs (based on human preferences) to directly adjust the likelihoods of preferable and unpreferable results. The model is optimized to increase the likelihood of generating responses that are preferable according to human feedback and decrease the likelihood of generating less desirable responses. DPO only requires two models: the initial supervised fine-tuned model and the final fine-tuned model. This eliminates the need for a separate reward model.
 
 ![image](https://github.com/user-attachments/assets/dd8cac2b-0b84-4147-8e25-1c93b6f96fde)
 ![image](https://github.com/user-attachments/assets/d8be3891-758b-4f7a-b217-09978f095237)

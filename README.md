@@ -8,7 +8,9 @@
 <span style="color:grey">
 - Application Engineering and Development
 - Prompt Engineering
-- Advanved Techniques with LLMs 
+- Advanved Techniques with LLMs
+- Software Engineering
+- Data Science and Engineering 
 
 ### Projects
 

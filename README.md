@@ -11,6 +11,18 @@
 - Advanved Techniques with LLMs
 - Software Engineering
 - Data Science and Engineering 
+  
+### Professional Activities
+
+#### Goolgle Women Techmakers Ambassador  (Jul 2024 - Present)
+- Empowering women in tech by organizing events, speaking at conferences, creating educational content, and mentoring young professionals.
+- Actively engaged in building an inclusive tech community, promoting gender diversity, and encouraging female participation in STEM fields through outreach and leadership.
+
+#### Reviewer - WiML Workshop @ NeurIPS 2024 (Sep 2024 - Present)
+- Reviewed and evaluated machine learning research abstracts for the WiML 2024 Workshop.
+- Assessed submissions based on criteria such as relevance, clarity, novelty, and technical quality.
+- Provided detailed, constructive feedback to authors to help improve the quality of their research contributions.
+
 
 ### Projects
 

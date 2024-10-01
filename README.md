@@ -14,7 +14,8 @@
   
 ### Professional Activities
 
-#### Goolgle Women Techmakers Ambassador  (Jul 2024 - Present)
+#### Member - Data Science Institute University of Toronto
+#### Ambassador - Goolgle Women Techmakers   (Jul 2024 - Present)
 - Empowering women in tech by organizing events, speaking at conferences, creating educational content, and mentoring young professionals.
 - Actively engaged in building an inclusive tech community, promoting gender diversity, and encouraging female participation in STEM fields through outreach and leadership.
 

@@ -1,4 +1,4 @@
-## Portfolio
+## Portfolio of
 
 ### Education
 - **M.S., Information Systems, Specializing in Data Science and Machine Learning Systems Engineering** - Northeastern University (April 2025)

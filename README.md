@@ -30,7 +30,6 @@
 #### Predicting Renewable Energy Generation and C02 Emissions in California
 
 This project analyzes California's energy mix and develops machine learning models to predict renewable energy generation using hourly electricity data from 2018 to 2023.
-![image](https://github.com/user-attachments/assets/506209cd-59f4-4892-99da-0771baa15f73)
 
 ##### Key Findings
 
@@ -71,6 +70,7 @@ This project analyzes California's energy mix and develops machine learning mode
 
 ###### Data Source
 U.S. Energy Information Administration (EIA) "Hourly Electric Grid Monitor" dataset, accessed through Harvard Dataverse.
+![image](https://github.com/user-attachments/assets/506209cd-59f4-4892-99da-0771baa15f73)
 
 
 #### Climate Change Chatbot with RAG 

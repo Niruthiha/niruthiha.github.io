@@ -29,6 +29,8 @@
 
 #### Predicting Renewable Energy Generation and C02 Emissions in California
 
+[![Open in Google Colab](https://colab.research.google.com/drive/1LSZLK-YPZa7EejzHeb7DVb_Bd965NQxw?usp=sharing)
+
 This project analyzes California's energy mix and develops machine learning models to predict renewable energy generation using hourly electricity data from 2018 to 2023.
 
 ##### Key Findings

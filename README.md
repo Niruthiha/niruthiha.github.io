@@ -27,6 +27,51 @@
 
 ### Projects
 
+#### Predicting Renewable Energy Generation and C02 Emissions in California
+
+This project analyzes California's energy mix and develops machine learning models to predict renewable energy generation using hourly electricity data from 2018 to 2023.
+
+##### Key Findings
+
+###### 1. Renewable Energy Trends
+- Renewable energy usage in California increased from 32.63% in 2018 to 45.92% in 2023.
+- Solar energy showed the most significant growth, rising from 14.09% to 19.80% of the energy mix.
+- Wind energy also increased, from 7.75% to 9.75%.
+
+###### 2. Energy Mix Evolution
+- Natural gas remains the primary energy source but decreased from 51.26% in 2018 to 41.78% in 2023.
+- Coal usage significantly declined from 5.04% to 1.22%.
+- Hydroelectric power showed high variability, ranging from 5.70% to 17.45% depending on the year.
+
+###### 3. CO2 Emissions
+- CO2 emissions intensity decreased from 0.576 lbs/kWh in 2018 to 0.403 lbs/kWh in 2023.
+- Strong positive correlation between natural gas usage and CO2 emissions (0.967).
+- Strong negative correlation between solar energy and CO2 emissions (-0.737).
+
+###### 4. Predictive Modeling
+- Random Forest model performed best in predicting renewable energy generation (R² = 0.97).
+- Most important features for prediction: Renewable Percentage, Hour, Grid Stability.
+
+###### 5. Grid Stability
+- Weak positive correlation (0.07) between renewable energy percentage and grid stability.
+- Suggests California's grid is managing increased renewable integration without significant stability issues.
+
+###### 6. Optimization Model
+- Linear programming model developed to optimize energy mix for minimal CO2 emissions.
+- Suggested increasing nuclear, hydro, and wind while reducing natural gas for optimal low-emission mix.
+
+###### Technologies Used
+- Python
+- Pandas
+- Scikit-learn
+- Matplotlib
+- Seaborn
+- PuLP
+
+###### Data Source
+U.S. Energy Information Administration (EIA) "Hourly Electric Grid Monitor" dataset, accessed through Harvard Dataverse.
+
+
 #### Climate Change Chatbot with RAG 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://m9c2pz0j-8501.use.devtunnels.ms/)
 [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-blue?logo=github)](https://github.com/Niruthiha/Chatbot-RAG-Vector-Database)

@@ -30,7 +30,7 @@
 #### Predicting Renewable Energy Generation and C02 Emissions in California
 
 [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LSZLK-YPZa7EejzHeb7DVb_Bd965NQxw?usp=sharing)
-<a href="https://drive.google.com/file/d/1hp-A6G6dH1uudKHMW1_CSRdw-nF8y0s4/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1sHtvBTcv3mMKYcUMEC18WTH3meVfRy-N/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Read-Full%20Paper-blue?style=for-the-badge&logo=google-drive" alt="Read Full Paper">
 </a>
 

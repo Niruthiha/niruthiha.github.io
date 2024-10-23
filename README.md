@@ -25,7 +25,7 @@
 - Provided detailed, constructive feedback to authors to help improve the quality of their research contributions.
 
 
-### Projects
+### Highlighted Projects
 
 #### Predicting Renewable Energy Generation and C02 Emissions in California
 

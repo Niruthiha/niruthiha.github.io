@@ -101,17 +101,6 @@ Instead of training a separate reward model, DPO uses pairwise comparisons of ou
 ![image](https://github.com/user-attachments/assets/dd8cac2b-0b84-4147-8e25-1c93b6f96fde)
 ![image](https://github.com/user-attachments/assets/d8be3891-758b-4f7a-b217-09978f095237)
 
-
-
-#### Alzheimer's Caregiver Support Chatbot
-[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-blue?logo=github)](https://github.com/Niruthiha/Alzheimer-s-Caregiver-Support-Chatbot)
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://alzheimer-caregiver-support-chatbot.streamlit.app/)
-
-<span style="color:grey">This project implements a chatbot designed to support caregivers of Alzheimer's patients. Leveraging advanced Natural Language Processing (NLP) technology, specifically the Llama3 model, caregivers can seek advice and information related to caregiving challenges. Streamlit: Used for building the web application UI. OpenAI GPT-3 (Llama3 model): Integrated for NLP tasks. Python 3: Programming language used for development.
-- Inspiration: Alzheimer's Society's Walk Toronto 2024 event.
-
-![0_iYeyafgUdckW7uxd](https://github.com/Niruthiha/portfolio/assets/157150830/ebf6cc7a-d9ee-4cb7-9174-04e173e1a0e9)
-
 ---
 #### LoRA Fine-Tuning on Llama-2-7b
 [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-blue?logo=github)](https://github.com/Niruthiha/lora_model)
@@ -137,18 +126,6 @@ This repository includes the code, methodologies, and detailed explanations for 
 
 
 ---
-#### NLP Password Strength
-
-[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CxT_4dFdMGnK5RnmbgtDhUgsFks4O93s?usp=sharing)
-[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-blue?logo=github)](https://github.com/Niruthiha/NLP_password_strength/blob/main/README.md)
-
-This project effectively classifies passwords into strength categories, providing a robust model for predicting password strength. The models demonstrated high accuracy and reliability, offering valuable insights for enhancing password security. This project showcases the application of NLP and machine learning to a critical cybersecurity problem. The comprehensive approach from data integration to model evaluation with complex datasets, apply advanced analytical techniques, and deliver impactful solutions in the field of cybersecurity.
-
-This project involved leveraging SQL for efficient data management and retrieval from various sources. Robust data cleaning techniques were implemented to ensure high-quality and consistent data for analysis. In-depth semantic analysis was performed to understand linguistic patterns within passwords. Meaningful features were engineered from the password data to enhance the model's predictive capabilities. Term Frequency-Inverse Document Frequency (TF-IDF) was applied to transform text data into numerical features suitable for machine learning models. Logistic regression and other classification algorithms were utilized to predict password strength, and thorough model evaluation was conducted using accuracy metrics to assess performance and ensure reliability. Technologies used in this project include Python, Pandas, Scikit-learn, NLTK, and SQL.
-
-![sddefault](https://github.com/user-attachments/assets/4a3ba9f7-5a8f-481b-a6d5-749306770c38)
-
----
 #### Sales Analysis Dashboard in Power BI
 
 Developed a comprehensive Power BI dashboard to track and visualize key performance metrics for FY21. Created interactive visualizations, including bar charts, gauge charts, and summary tables, to monitor revenue, targets, and segment performance. Implemented dynamic filters and slicers for segment, industry, vertical, account name, product category, and potential account, enabling detailed data analysis. Provided actionable insights by comparing revenue against marketing spend, helping drive strategic business decisions. Utilized advanced DAX functions and Power Query for data transformation and modeling.
@@ -157,13 +134,4 @@ Developed a comprehensive Power BI dashboard to track and visualize key performa
 
 [![Power BI Dashboard](https://img.shields.io/badge/Power%20BI-Dashboard-blue?style=flat-square&logo=powerbi&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiMWIxNWM5YzktYTNmYS00NjFjLWE1ZjUtYTM4NDI2OGQwMjM0IiwidCI6ImE4ZWVjMjgxLWFhYTMtNGRhZS1hYzliLTlhMzk4YjkyMTVlNyIsImMiOjN9)
 ![image](https://github.com/user-attachments/assets/de89705f-3012-45ce-882e-9efb2f4b3419)
-
-
----
-#### Car Price Prediction Using Python
-[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SinqVM57qOh1jllP6DdEwcExAhTXIBv4?usp=sharing)
-
-In this project, I used various machine learning algorithms to predict car prices. After extensive analysis and testing, the XGBooster Regressor stood out as the best performer, even without any optimization. This repository contains the code and methodologies used in the project, along with detailed explanations of each step.
-
-![82423Screenshot from 2021-07-25 11-12-24](https://github.com/Niruthiha/portfolio/assets/157150830/245bd242-f54b-463f-8632-4f280d7a000a)
 

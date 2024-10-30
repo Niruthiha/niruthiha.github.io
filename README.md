@@ -79,8 +79,10 @@ U.S. Energy Information Administration (EIA) "Hourly Electric Grid Monitor" data
 
 
 #### Climate Change Chatbot with RAG 
-[![Open in GitHub](https://github.com/Niruthiha/hackathon-climatechange)
-[![Click Here to Watch Demo Video](https://youtu.be/2ImdVK4LUXw)
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Niruthiha/hackathon-climatechange)
+
+[![Click Here to Watch Demo Video](https://img.shields.io/badge/Watch%20Demo-Video-red?style=for-the-badge&logo=youtube)](https://youtu.be/2ImdVK4LUXw)
+
 
 ClimateConnect is an innovative chatbot that provides accurate, Canada-focused information about climate change science, impacts, policies, and solutions. By leveraging cutting-edge AI and authoritative data sources, ClimateConnect makes climate knowledge accessible and actionable for everyone.
 

@@ -34,6 +34,10 @@
   <img src="https://img.shields.io/badge/Read-Full%20Paper-blue?style=for-the-badge&logo=google-drive" alt="Read Full Paper">
 </a>
 
+
+
+![image](https://github.com/user-attachments/assets/f7be312f-d3a7-447f-a6d5-4999b142ca9b)
+
 This project analyzes California's energy mix and develops machine learning models to predict renewable energy generation using hourly electricity data from 2018 to 2023.
 
 ##### Key Findings
@@ -75,7 +79,6 @@ This project analyzes California's energy mix and develops machine learning mode
 
 ###### Data Source
 U.S. Energy Information Administration (EIA) "Hourly Electric Grid Monitor" dataset, accessed through Harvard Dataverse.
-![image](https://github.com/user-attachments/assets/506209cd-59f4-4892-99da-0771baa15f73)
 
 
 #### Climate Change Chatbot with RAG 

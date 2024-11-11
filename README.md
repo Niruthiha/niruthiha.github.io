@@ -27,7 +27,8 @@
 
 ### Highlighted Projects
 
-#### Predicting Renewable Energy Generation and C02 Emissions in California
+#### California Energy Mix Optimization & Prediction System
+
 
 [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LSZLK-YPZa7EejzHeb7DVb_Bd965NQxw?usp=sharing)
 <a href="https://drive.google.com/file/d/168xcOa0MWeJ1eABL7P9hXeDhUooHUpbW/view?usp=drive_link" target="_blank">
@@ -40,46 +41,31 @@
 
 This project analyzes California's energy mix and develops machine learning models to predict renewable energy generation using hourly electricity data from 2018 to 2023.
 
-##### Key Findings
+##### Project Overview
 
-###### 1. Renewable Energy Trends
-- Renewable energy usage in California increased from 32.63% in 2018 to 45.92% in 2023.
-- Solar energy showed the most significant growth, rising from 14.09% to 19.80% of the energy mix.
-- Wind energy also increased, from 7.75% to 9.75%.
+Built a comprehensive data analysis and machine learning system to analyze California's energy transition, focusing on renewable energy integration and its impact on grid stability. Using hourly electricity data from 2018-2023, I developed predictive models to forecast renewable energy generation and created an optimization framework for minimizing CO2 emissions.
 
-###### 2. Energy Mix Evolution
-- Natural gas remains the primary energy source but decreased from 51.26% in 2018 to 41.78% in 2023.
-- Coal usage significantly declined from 5.04% to 1.22%.
-- Hydroelectric power showed high variability, ranging from 5.70% to 17.45% depending on the year.
+##### Machine Learning Implementation
+- Model Development: Implemented Random Forest model achieving R² = 0.97 for renewable energy prediction. Feature importance analysis identified key predictors: Renewable Percentage, Hour, Grid Stability. Cross-validation ensuring robust model performance across different time periods. 
 
-###### 3. CO2 Emissions
-- CO2 emissions intensity decreased from 0.576 lbs/kWh in 2018 to 0.403 lbs/kWh in 2023.
-- Strong positive correlation between natural gas usage and CO2 emissions (0.967).
-- Strong negative correlation between solar energy and CO2 emissions (-0.737).
+- Optimization Component: Developed linear programming model using PuLP for CO2 emissions minimization. Incorporated real-world constraints like grid stability requirements. Generated actionable recommendations for energy mix optimization.
 
-###### 4. Predictive Modeling
-- Random Forest model performed best in predicting renewable energy generation (R² = 0.97).
-- Most important features for prediction: Renewable Percentage, Hour, Grid Stability.
+#####  Key Findings & Impact
+- Energy Transition Analysis: Documented California's successful renewable energy integration: Renewable share increased from 32.63% to 45.92% (2018-2023), Solar contribution grew from 14.09% to 19.80%, Wind energy expanded from 7.75% to 9.75%
 
-###### 5. Grid Stability
-- Weak positive correlation (0.07) between renewable energy percentage and grid stability.
-- Suggests California's grid is managing increased renewable integration without significant stability issues.
+- Quantified emissions reduction: CO2 intensity decreased from 0.576 to 0.403 lbs/kWh, Identified strong correlation between natural gas usage and CO2 emissions (0.967), Demonstrated negative correlation between solar energy and emissions (-0.737)
 
-###### 6. Optimization Model
-- Linear programming model developed to optimize energy mix for minimal CO2 emissions.
-- Suggested increasing nuclear, hydro, and wind while reducing natural gas for optimal low-emission mix.
+- Grid Stability Assessment: Analyzed relationship between renewable integration and grid stability, Found minimal impact (correlation: 0.07) of increased renewables on grid stability, Validated California's renewable integration strategy effectiveness.
 
-###### Technologies Used
-- Python
-- Pandas
-- Scikit-learn
-- Matplotlib
-- Seaborn
-- PuLP
+##### Technical Stack
 
-###### Data Source
-U.S. Energy Information Administration (EIA) "Hourly Electric Grid Monitor" dataset, accessed through Harvard Dataverse.
-
+- Programming: Python, SQL
+- Data Analysis: Pandas, NumPy
+- Machine Learning: Scikit-learn
+- Visualization: Matplotlib, Seaborn
+- Optimization: PuLP
+- Version Control: Git
+- Data Source : Utilized the U.S. Energy Information Administration (EIA) "Hourly Electric Grid Monitor" dataset from Harvard Dataverse, processing over 43,800 hourly observations.
 
 #### Climate Change Chatbot with RAG 
 [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Niruthiha/hackathon-climatechange)

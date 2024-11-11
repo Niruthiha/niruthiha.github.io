@@ -123,16 +123,23 @@ Low-Rank Adaptation (LoRA) for efficient AI model fine-tuningcapplied to the cut
 
 [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YwIu4swMWVN6OUnK6khOYhvDQ5ZGHrs_?usp=sharing)
 
-<span style="color:grey">In this project, I utilized various machine learning models such as Linear Regression, Decision Trees, Random Forest, k-Nearest Neighbors (k-NN) to predict flight prices. This repository includes the code, methodologies, and detailed explanations for each step of the project. The project involved splitting the dataset into training and test sets using train_test_split from sklearn.model_selection.
+<span style="color:grey">
+At my Graduate Level Data Science course with Prof. Junwei
+Huang, I worked on a project using healthcare data from rural Bangladesh to explore how machine learning could
+improve maternal healthcare in resource-limited settings. I built a system to identify high-risk pregnancies in places
+where complete medical data is not always available. For this project, I implemented a novel ensemble learning
+approach combining Decision Trees, Random Forests, and Gradient Boosting algorithms. The real challenge was
+handling imbalanced data distribution in medical cases - a common issue in healthcare datasets. I overcame this by
+applying the Synthetic Minority Over-sampling Technique to balance the class distribution and sample weighting
+to give higher importance to misclassified instances, further addressing the class imbalance issue. The combination
+of these enabled the algorithm to effectively handle the imbalanced data and improve the identification of high-risk
+pregnancies. When comparing my approach to standard methods like Gradient Boosting and K-Nearest Neighbors,
+my model performed better by 10.5% in precision, 9.8% in recall, and 11% F1-score on average. Through this
+course project, I learned how to adapt machine learning techniques to handle real-world data challenges. Working
+with healthcare data taught me the importance of building inclusive solutions that can work effectively even with
+incomplete information, making technology more accessible to communities that need it most
 
-Initially, I built a basic random model, then iteratively improved it using hyperparameter tuning. A RandomForestRegressor was trained on the data, and performance metrics such as R² score, Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and Mean Absolute Percentage Error (MAPE) were calculated. The model was then saved using pickle for future predictions.
-
-To automate the machine learning pipeline, custom evaluation metrics were defined, and the process was streamlined to provide comprehensive results including training score, predictions, and various error metrics. Hyperparameter tuning was conducted using RandomizedSearchCV to optimize the model parameters.
-
-This repository includes the code, methodologies, and detailed explanations for each step of the project, providing insights into the entire machine learning workflow from data preprocessing to model evaluation and deployment
-
-![Screenshot 2024-07-05 114600](https://github.com/Niruthiha/portfolio/assets/157150830/c21b1e82-34ae-47c7-9c46-6b8d6fdf6572)
-
+![image](https://github.com/user-attachments/assets/2e280c48-dea6-493f-bece-4f1771d1aa65)
 
 ---
 #### Sales Analysis Dashboard in Power BI

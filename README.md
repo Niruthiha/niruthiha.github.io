@@ -119,9 +119,7 @@ Low-Rank Adaptation (LoRA) for efficient AI model fine-tuningcapplied to the cut
 ![image](https://github.com/user-attachments/assets/c15149f3-6bca-4019-a6d1-0db8774b2117)
 
 ---
-#### Flight Price Prediction
-
-[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YwIu4swMWVN6OUnK6khOYhvDQ5ZGHrs_?usp=sharing)
+#### Maternal Health Risk Prediction
 
 <span style="color:grey">
 At my Graduate Level Data Science course with Prof. Junwei

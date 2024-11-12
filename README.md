@@ -18,6 +18,15 @@
 - Ambassador - Goolgle Women Techmakers   (Jul 2024 - Present)
 - Reviewer - WiML Workshop @ NeurIPS 2024 (Sep 2024 - Present)
 
+---
+
+### Publications & Presentations
+- **Poster Presentation at the 2nd European Congress on Renewable Energy and Sustainable Development**  
+  - Title: Predictive Modelling of Renewable Energy Generation and CO2 Emissions: Insights from U.S. Electricity Sector Data (2018-2023)
+- **Paper Accepted to The 26th Annual Media Ecology Association Convention**  
+  - Title: Multi-Agent Framework for Multimodal Hate Speech Detection
+
+---
 
 ### Highlighted Projects
 

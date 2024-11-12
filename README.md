@@ -14,9 +14,9 @@
   
 ### Professional Activities
 
-#### Member - Data Science Institute @ University of Toronto
-#### Ambassador - Goolgle Women Techmakers   (Jul 2024 - Present)
-#### Reviewer - WiML Workshop @ NeurIPS 2024 (Sep 2024 - Present)
+- Member - Data Science Institute @ University of Toronto
+- Ambassador - Goolgle Women Techmakers   (Jul 2024 - Present)
+- Reviewer - WiML Workshop @ NeurIPS 2024 (Sep 2024 - Present)
 
 
 ### Highlighted Projects

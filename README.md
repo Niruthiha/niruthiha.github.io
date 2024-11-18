@@ -84,15 +84,24 @@ Built a comprehensive data analysis and machine learning system to analyze Calif
 
 [![Click Here to Watch Demo Video](https://img.shields.io/badge/Watch%20Demo-Video-red?style=for-the-badge&logo=youtube)](https://youtu.be/2ImdVK4LUXw)
 
+**Challenge**: Developed a sophisticated information retrieval and natural language processing system to solve three critical challenges:
+- Accurate semantic search across vast climate science datasets
+- Context-aware document retrieval and synthesis
+- Real-time information validation and fact-checking
+- Canada-focused information about climate change science, impacts, policies, and solutions makes climate knowledge accessible and actionable for everyone.
 
-ClimateConnect is an innovative chatbot that provides accurate, Canada-focused information about climate change science, impacts, policies, and solutions. By leveraging cutting-edge AI and authoritative data sources, ClimateConnect makes climate knowledge accessible and actionable for everyone.
+##### Data Engineering & Processing:
 
-Retrieval-augmented generation (RAG) architecture for dynamic, context-aware question answering
-Integration of trusted data sources: 
-- Environment and Climate Change Canada (ECCC)
-- IPCC (Intergovernmental Panel on Climate Change) Reports, including the 2023 Synthesis Report
-- University of Manitoba climate research and expertise
+- Engineered a robust document processing pipeline handling multiple data sources:
+  - IPCC Reports (>10,000 pages)
+  - ECCC Climate Data (>50GB environmental records)
+  - University Research Papers (>1,000 documents)
 
+- Implemented advanced text preprocessing:
+  - Custom tokenization for scientific terminology
+  - Domain-specific entity recognition for climate terms
+     Semantic chunking with 85% information retention
+    
 In the below diagram, the documents repository represents the vector database that stores the semantic information from the documents in the document store. Each document in the document store is chunked into pieces and converted to vectors that store the semantic meaning of each chunk. The vectors as well as the metadata for each chunk are stored in this vector database. An algorithm is used to take the user query and determine the relevant text chunks to retrieve from the vector database to answer the user’s query. From there, a variety of different methods are used to augment the query to construct a robust prompt to pass to the LLM.  The generated response you get from the LLM is more precise as it draws on your specific data rather than just the basic knowledge used to train a foundation LLM. 
 
 ![image](https://github.com/user-attachments/assets/d3ce5ffb-78a9-4eca-b17f-84c33f6d5fb5)

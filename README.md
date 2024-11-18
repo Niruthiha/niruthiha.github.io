@@ -109,6 +109,26 @@ In the below diagram, the documents repository represents the vector database th
 
 ![image](https://github.com/user-attachments/assets/d3ce5ffb-78a9-4eca-b17f-84c33f6d5fb5)
 
+---
+#### Maternal Health Risk Prediction
+
+##### Project Context:
+At my Graduate Level Data Science course with Prof. Junwei Huang, developed a machine learning system to identify high-risk pregnancies in rural Bangladesh, where complete medical data is often unavailable. This project addresses critical healthcare challenges in resource-limited settings while demonstrating advanced ML techniques for imbalanced healthcare data. 
+
+##### Challenges
+- Imbalanced Medical Data:
+- Rare high-risk cases (15% of dataset)
+- Missing data points (30% of records incomplete)
+- Limited feature availability in rural settings
+
+##### Solution I provided: Novel Ensemble Architecture:
+When comparing my approach to standard methods like Gradient Boosting and K-Nearest Neighbors,
+my model performed better by 10.5% in precision, 9.8% in recall, and 11% F1-score on average. ***Early identification of 92% of high-risk cases.*** Through this course project, I learned how to adapt machine learning techniques to handle real-world data challenges, making technology more accessible to communities that need it most.
+
+![image](https://github.com/user-attachments/assets/2e280c48-dea6-493f-bece-4f1771d1aa65)
+
+---
+
 #### Direct Preference Optimization (DPO)
 
 [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kp9OW6V3LmIj3kEqH-DXZXCGhD9Ha5F9#scrollTo=trnveKvN2ORF)
@@ -129,24 +149,7 @@ Low-Rank Adaptation (LoRA) for efficient AI model fine-tuningcapplied to the cut
 ![image](https://github.com/user-attachments/assets/c15149f3-6bca-4019-a6d1-0db8774b2117)
 
 ---
-#### Maternal Health Risk Prediction
 
-##### Project Context:
-At my Graduate Level Data Science course with Prof. Junwei Huang, developed a machine learning system to identify high-risk pregnancies in rural Bangladesh, where complete medical data is often unavailable. This project addresses critical healthcare challenges in resource-limited settings while demonstrating advanced ML techniques for imbalanced healthcare data. 
-
-##### Challenges
-- Imbalanced Medical Data:
-- Rare high-risk cases (15% of dataset)
-- Missing data points (30% of records incomplete)
-- Limited feature availability in rural settings
-
-##### Solution I provided: Novel Ensemble Architecture:
-When comparing my approach to standard methods like Gradient Boosting and K-Nearest Neighbors,
-my model performed better by 10.5% in precision, 9.8% in recall, and 11% F1-score on average. ***Early identification of 92% of high-risk cases.*** Through this course project, I learned how to adapt machine learning techniques to handle real-world data challenges, making technology more accessible to communities that need it most.
-
-![image](https://github.com/user-attachments/assets/2e280c48-dea6-493f-bece-4f1771d1aa65)
-
----
 #### Sales Analysis Dashboard in Power BI
 
 Developed a comprehensive Power BI dashboard to track and visualize key performance metrics for FY21. Created interactive visualizations, including bar charts, gauge charts, and summary tables, to monitor revenue, targets, and segment performance. Implemented dynamic filters and slicers for segment, industry, vertical, account name, product category, and potential account, enabling detailed data analysis. Provided actionable insights by comparing revenue against marketing spend, helping drive strategic business decisions. Utilized advanced DAX functions and Power Query for data transformation and modeling.

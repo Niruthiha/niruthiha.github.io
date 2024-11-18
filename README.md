@@ -123,7 +123,7 @@ At my Graduate Level Data Science course with Prof. Junwei Huang, developed a ma
 
 ##### Solution I provided: Novel Ensemble Architecture:
 When comparing my approach to standard methods like Gradient Boosting and K-Nearest Neighbors,
-my model performed better by 10.5% in precision, 9.8% in recall, and 11% F1-score on average. ***Early identification of 92% of high-risk cases.*** Through this course project, I learned how to adapt machine learning techniques to handle real-world data challenges, making technology more accessible to communities that need it most.
+my model performed better by 10.5% in precision, 9.8% in recall, and 11% F1-score on average. ***Accuracy in identification of 92% of high-risk cases.*** Through this course project, I learned how to adapt machine learning techniques to handle real-world data challenges, making technology more accessible to communities that need it most.
 
 ![image](https://github.com/user-attachments/assets/2e280c48-dea6-493f-bece-4f1771d1aa65)
 

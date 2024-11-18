@@ -80,7 +80,7 @@ Built a comprehensive data analysis and machine learning system to analyze Calif
 
 
 #### Climate Change Chatbot with RAG 
-🏆 2nd Place Winner - Climate Resiliency Hackathon 2024 (400+ participants, 10 Northeastern University campuses)
+
 [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Niruthiha/hackathon-climatechange)
 
 [![Click Here to Watch Demo Video](https://img.shields.io/badge/Watch%20Demo-Video-red?style=for-the-badge&logo=youtube)](https://youtu.be/2ImdVK4LUXw)
@@ -131,21 +131,18 @@ Low-Rank Adaptation (LoRA) for efficient AI model fine-tuningcapplied to the cut
 ---
 #### Maternal Health Risk Prediction
 
-<span style="color:grey">
-At my Graduate Level Data Science course with Prof. Junwei
-Huang, I worked on a project using healthcare data from rural Bangladesh to explore how machine learning could
-improve maternal healthcare in resource-limited settings. I built a system to identify high-risk pregnancies in places
-where complete medical data is not always available. For this project, I implemented a novel ensemble learning
-approach combining Decision Trees, Random Forests, and Gradient Boosting algorithms. The real challenge was
-handling imbalanced data distribution in medical cases - a common issue in healthcare datasets. I overcame this by
-applying the Synthetic Minority Over-sampling Technique to balance the class distribution and sample weighting
-to give higher importance to misclassified instances, further addressing the class imbalance issue. The combination
-of these enabled the algorithm to effectively handle the imbalanced data and improve the identification of high-risk
-pregnancies. When comparing my approach to standard methods like Gradient Boosting and K-Nearest Neighbors,
-my model performed better by 10.5% in precision, 9.8% in recall, and 11% F1-score on average. Through this
-course project, I learned how to adapt machine learning techniques to handle real-world data challenges. Working
-with healthcare data taught me the importance of building inclusive solutions that can work effectively even with
-incomplete information, making technology more accessible to communities that need it most
+##### Project Context:
+At my Graduate Level Data Science course with Prof. Junwei Huang, developed a machine learning system to identify high-risk pregnancies in rural Bangladesh, where complete medical data is often unavailable. This project addresses critical healthcare challenges in resource-limited settings while demonstrating advanced ML techniques for imbalanced healthcare data. 
+
+##### Challenges
+- Imbalanced Medical Data:
+- Rare high-risk cases (15% of dataset)
+- Missing data points (30% of records incomplete)
+- Limited feature availability in rural settings
+
+##### Solution I provided: Novel Ensemble Architecture:
+When comparing my approach to standard methods like Gradient Boosting and K-Nearest Neighbors,
+my model performed better by 10.5% in precision, 9.8% in recall, and 11% F1-score on average. ***Early identification of 92% of high-risk cases.*** Through this course project, I learned how to adapt machine learning techniques to handle real-world data challenges, making technology more accessible to communities that need it most.
 
 ![image](https://github.com/user-attachments/assets/2e280c48-dea6-493f-bece-4f1771d1aa65)
 

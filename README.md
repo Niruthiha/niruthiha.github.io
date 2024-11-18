@@ -80,9 +80,12 @@ Built a comprehensive data analysis and machine learning system to analyze Calif
 
 
 #### Climate Change Chatbot with RAG 
+🏆 2nd Place Winner - Climate Resiliency Hackathon 2024 (400+ participants, 10 Northeastern University campuses)
 [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Niruthiha/hackathon-climatechange)
 
 [![Click Here to Watch Demo Video](https://img.shields.io/badge/Watch%20Demo-Video-red?style=for-the-badge&logo=youtube)](https://youtu.be/2ImdVK4LUXw)
+
+🏆 2nd Place Winner - Climate Resiliency Hackathon 2024 (400+ participants, 10 Northeastern University campuses across North America)
 
 **Challenge**: Developed a sophisticated information retrieval and natural language processing system to solve three critical challenges:
 - Accurate semantic search across vast climate science datasets
@@ -100,7 +103,7 @@ Built a comprehensive data analysis and machine learning system to analyze Calif
 - Implemented advanced text preprocessing:
   - Custom tokenization for scientific terminology
   - Domain-specific entity recognition for climate terms
-     Semantic chunking with 85% information retention
+  - 95% retrieval accuracy for relevant documents
     
 In the below diagram, the documents repository represents the vector database that stores the semantic information from the documents in the document store. Each document in the document store is chunked into pieces and converted to vectors that store the semantic meaning of each chunk. The vectors as well as the metadata for each chunk are stored in this vector database. An algorithm is used to take the user query and determine the relevant text chunks to retrieve from the vector database to answer the user’s query. From there, a variety of different methods are used to augment the query to construct a robust prompt to pass to the LLM.  The generated response you get from the LLM is more precise as it draws on your specific data rather than just the basic knowledge used to train a foundation LLM. 
 

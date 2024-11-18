@@ -38,11 +38,6 @@
   <img src="https://img.shields.io/badge/Read-Full%20Paper-blue?style=for-the-badge&logo=google-drive" alt="Read Full Paper">
 </a>
 
-
-
-![image](https://github.com/user-attachments/assets/f7be312f-d3a7-447f-a6d5-4999b142ca9b)
-
-
 ##### Project Overview
 
 Built a comprehensive data analysis and machine learning system to analyze California's energy transition, focusing on renewable energy integration and its impact on grid stability. Using hourly electricity data from 2018-2023, I developed predictive models to forecast renewable energy generation and created an optimization framework for minimizing CO2 emissions. Challenge: 
@@ -67,10 +62,10 @@ Built a comprehensive data analysis and machine learning system to analyze Calif
   - Provided actionable recommendations leading to 13.29% increase in renewable share
 
 ##### Impact Metrics:
-Model Performance: 97% accuracy in renewable generation prediction
-Business Value: Enabled 30% potential reduction in CO2 emissions
-Scalability: Successfully processed 5 years of hourly data (43,800 observations)
-Validation: Cross-validated across different time periods with < 3% variance
+- Model Performance: 97% accuracy in renewable generation prediction
+- Business Value: Enabled 30% potential reduction in CO2 emissions
+- Scalability: Successfully processed 5 years of hourly data (43,800 observations)
+- Validation: Cross-validated across different time periods with < 3% variance
 
 ##### Technical Stack
 
@@ -81,6 +76,8 @@ Validation: Cross-validated across different time periods with < 3% variance
 - Optimization: PuLP
 - Version Control: Git
 - Data Source : Utilized the U.S. Energy Information Administration (EIA) "Hourly Electric Grid Monitor" dataset from Harvard Dataverse, processing over 43,800 hourly observations.
+![image](https://github.com/user-attachments/assets/f7be312f-d3a7-447f-a6d5-4999b142ca9b)
+
 
 #### Climate Change Chatbot with RAG 
 [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Niruthiha/hackathon-climatechange)

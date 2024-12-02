@@ -110,6 +110,23 @@ In the below diagram, the documents repository represents the vector database th
 ![image](https://github.com/user-attachments/assets/d3ce5ffb-78a9-4eca-b17f-84c33f6d5fb5)
 
 ---
+#### Multivariate Analysis of Language Impairment Patterns Using Principal Component Analysis and Clustering
+
+##### Project Overview
+This project applies advanced data science techniques to analyze patterns in language impairment, utilizing a dataset of 1,163 participants with 64 linguistic features. The project successfully identified key linguistic markers that differentiate language impairment patterns, reducing the complexity of diagnosis from 64 measurements to 14 key components. This data-driven approach achieved 83.55% accuracy in explaining language variation patterns, potentially enabling more efficient and accurate clinical assessments. Through dimensional reduction and unsupervised learning, the analysis uncovers hidden patterns in language development that could improve early diagnosis of language disorders.
+
+##### Key Data Science Components:
+
+- Implemented Principal Component Analysis (PCA) to reduce 64 dimensions to 14 significant components, explaining 83.55% of variance
+- Applied K-means clustering to identify distinct language profiles in high-dimensional space
+- Performed feature importance analysis to identify key linguistic markers
+- Conducted statistical validation using silhouette scores and variance explained ratios
+- Developed visualization techniques for high-dimensional linguistic data
+
+![image](https://github.com/user-attachments/assets/369a5135-9e2e-4ecb-8e27-7bb12784a796)
+
+
+---
 #### Maternal Health Risk Prediction
 
 ##### Project Context:

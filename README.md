@@ -112,6 +112,8 @@ In the below diagram, the documents repository represents the vector database th
 ---
 #### Multivariate Analysis of Language Impairment Patterns Using Principal Component Analysis and Clustering
 
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/112RXS5nncvShS2bizJdYzrrO0p0BGCfS/view?usp=sharing)
+
 ##### Project Overview
 This project applies advanced data science techniques to analyze patterns in language impairment, utilizing a dataset of 1,163 participants with 64 linguistic features. The project successfully identified key linguistic markers that differentiate language impairment patterns, reducing the complexity of diagnosis from 64 measurements to 14 key components. This data-driven approach achieved 83.55% accuracy in explaining language variation patterns, potentially enabling more efficient and accurate clinical assessments. Through dimensional reduction and unsupervised learning, the analysis uncovers hidden patterns in language development that could improve early diagnosis of language disorders.
 

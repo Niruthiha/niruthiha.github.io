@@ -114,6 +114,12 @@ In the below diagram, the documents repository represents the vector database th
 
 [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/112RXS5nncvShS2bizJdYzrrO0p0BGCfS/view?usp=sharing)
 
+<a href="https://drive.google.com/file/d/15EDolOovlmgGWMgc6mQpCdCIm7KGf3zW/view?usp=drive_link" target="_blank">
+  <img src="https://img.shields.io/badge/Read-Full%20Paper-blue?style=for-the-badge&logo=google-drive" alt="Read Full Paper">
+</a>
+
+
+
 ##### Project Overview
 This project applies advanced data science techniques to analyze patterns in language impairment, utilizing a dataset of 1,163 participants with 64 linguistic features.This project explores patterns in language development data using advanced dimensionality reduction and unsupervised learning techniques. By applying Principal Component Analysis (PCA) to a comprehensive dataset of language metrics, I reduced the high-dimensional data to its most informative components, with the first three components explaining 48.46% of the total variance. Using K-means clustering on these principal components revealed two distinct natural groupings in language development patterns. The analysis demonstrated robust cluster formation, particularly in PC1-PC2 space, with strong silhouette scores (0.380-0.460) indicating well-defined clusters. Notably, the clustering patterns showed remarkable consistency (96.5% agreement) between different PC space combinations, suggesting stable underlying structures in language development. The project implements various evaluation metrics and visualizations, including 3D representations and boundary analysis, to thoroughly validate the clustering results. These findings contribute to our understanding of natural language development patterns and demonstrate the value of unsupervised learning in discovering underlying structures in developmental data that could improve early diagnosis of language disorders.
 

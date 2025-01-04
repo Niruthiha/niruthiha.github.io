@@ -11,6 +11,8 @@
 - Advanved Techniques with LLMs
 - Software Engineering
 - Data Science and Engineering 
+- Advanced Data Sci/Architecture
+- Program Structure & Algorithms
   
 ### Professional Activities
 

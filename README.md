@@ -110,6 +110,37 @@ In the below diagram, the documents repository represents the vector database th
 ![image](https://github.com/user-attachments/assets/d3ce5ffb-78a9-4eca-b17f-84c33f6d5fb5)
 
 ---
+
+#### MAHD: A Conservative Multi-Agent System for Contextual Hateful Meme Detection Using GPT-4
+
+<a href="https://drive.google.com/file/d/1cWR93vSgEHNEh4futLYy68c68_c-ZEi6/view?usp=drive_link" target="_blank">
+  <img src="https://img.shields.io/badge/Read-Full%20Paper-blue?style=for-the-badge&logo=google-drive" alt="Read Full Paper">
+</a>
+
+
+##### Project Overview
+MAHD (Multi-Agent Hate Detection) is a novel dual-agent system for robust hateful meme detection in social media content. Built on GPT-4, MAHD employs a conservative classification approach that achieves high precision while effectively capturing subtle forms of harmful content
+
+##### Key Features
+
+🤖 Dual-agent architecture for comprehensive content analysis
+🎯 Conservative classification protocol with strict calibration
+📊 Adaptive reasoning system based on content complexity
+🔄 Probabilistic decision framework using Bayesian inference
+📝 Detailed explanation generation for moderation decisions
+
+##### Performance Metrics
+
+81.5% Overall Accuracy
+93.02% Recall Rate
+94% Accuracy in Explicit Hate Speech Detection
+91% Accuracy in Identifying Calls to Violence
+
+![image](https://github.com/user-attachments/assets/1031cdf3-8c09-4a36-93a5-bcebaabf3d78)
+
+
+
+
 #### Multivariate Analysis of Language Impairment Patterns Using Principal Component Analysis and Clustering
 
 [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/112RXS5nncvShS2bizJdYzrrO0p0BGCfS/view?usp=sharing)
@@ -117,7 +148,6 @@ In the below diagram, the documents repository represents the vector database th
 <a href="https://drive.google.com/file/d/15EDolOovlmgGWMgc6mQpCdCIm7KGf3zW/view?usp=drive_link" target="_blank">
   <img src="https://img.shields.io/badge/Read-Full%20Paper-blue?style=for-the-badge&logo=google-drive" alt="Read Full Paper">
 </a>
-
 
 
 ##### Project Overview

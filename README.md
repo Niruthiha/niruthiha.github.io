@@ -136,8 +136,9 @@ MAHD (Multi-Agent Hate Detection) is a novel dual-agent system for robust hatefu
 94% Accuracy in Explicit Hate Speech Detection
 91% Accuracy in Identifying Calls to Violence
 
-![image](https://github.com/user-attachments/assets/1031cdf3-8c09-4a36-93a5-bcebaabf3d78)
+![image](https://github.com/user-attachments/assets/56ca7ee4-0d51-4706-ad49-226fbed34e05)
 
+![image](https://github.com/user-attachments/assets/a2cc01d6-b70f-459d-ba15-b7f10c372c13)
 
 
 

@@ -148,7 +148,7 @@ MAHD (Multi-Agent Hate Detection) is a novel dual-agent system for robust hatefu
 
 [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/112RXS5nncvShS2bizJdYzrrO0p0BGCfS/view?usp=sharing)
 
-<a href="https://drive.google.com/file/d/15EDolOovlmgGWMgc6mQpCdCIm7KGf3zW/view?usp=drive_link" target="_blank">
+<a href="https://drive.google.com/file/d/1HUCsf3MNkyTJl8rLab1kTe2Mbh52-yLL/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Read-Full%20Paper-blue?style=for-the-badge&logo=google-drive" alt="Read Full Paper">
 </a>
 

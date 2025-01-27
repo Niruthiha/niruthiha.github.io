@@ -198,6 +198,23 @@ Instead of training a separate reward model, DPO uses pairwise comparisons of ou
 ![image](https://github.com/user-attachments/assets/d8be3891-758b-4f7a-b217-09978f095237)
 
 ---
+#### Web Scraping Project: Financial Data Collection from Yahoo Finance
+
+Technologies Used: Python, BeautifulSoup4, Pandas, Requests
+
+Description:
+Developed a web scraping system to automate the collection of financial metrics from Yahoo Finance, focusing on major **S&P500** publicly traded companies like Apple, Google, and Microsoft. The project targeted the Statistics pages of companies, gathering structured data such as balance sheets, income statements, cash flow statements, and management effectiveness metrics.
+
+Key Features:
+
+- Automated Data Collection: Designed functions to parse HTML, construct dynamic URLs, and handle rate-limiting challenges.
+- Data Processing Pipeline: Organized data into structured formats (CSV) for analysis, using custom scripts for data flattening and validation.
+- Error Handling & Reliability: Implemented robust error tracking, request management, and data validation mechanisms.
+- Sample Output: Financial metrics like Return on Equity (ROE), Return on Assets (ROA), Profit Margins, Gross Margins, Operating Margins, Total Revenue, Year-over-Year (YoY) Revenue Growth, Operating Cash Flow, Free Cash Flow, Debt-to-Equity Ratio, Current Ratio, Quick Ratio, Price-to-Earnings (P/E) Ratio, Price-to-Sales (P/S) Ratio, Market Capitalization, Historical Revenue, Net Income, and Earnings Per Share (EPS).
+
+![image](https://github.com/user-attachments/assets/3238edb8-e530-41b8-b476-3cb911cbe9fb)
+
+---
 
 #### Sales Analysis Dashboard in Power BI
 

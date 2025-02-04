@@ -13,7 +13,12 @@
 - Data Science and Engineering 
 - Advanced Data Sci/Architecture
 - Program Structure & Algorithms
-  
+
+### Professional Experience
+
+- **Machine Learning Associate** - Vector Institute for Artificial Intelligence
+- **Graduate Teaching Assistant** - Northeastern University
+
 ### Professional Activities
 
 - Member - Data Science Institute @ University of Toronto

@@ -37,6 +37,27 @@
 
 ### Highlighted Projects
 
+#### Named Entity Recognition for Restaurant Search Queries
+
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Niruthiha/DistilBERT-based-NER-/tree/main)
+
+This project showcases my expertise in Natural Language Processing and model deployment by developing a Named Entity Recognition (NER) system specifically designed to understand restaurant search queries.  Leveraging the power of transfer learning, I fine-tuned a DistilBERT model to accurately extract key structured information like restaurant ratings, cuisines, locations, and amenities from free-form text.  This model excels at transforming natural language input into actionable data, demonstrating real-world applicability for enhancing search and recommendation systems. Key highlights include:
+
+- Task & Model: Developed a Token Classification model using DistilBERT for Named Entity Recognition (NER).
+- Domain Expertise: Focused on the restaurant search domain, addressing a practical application of NLP.
+- Performance Metrics: Achieved strong evaluation metrics on the test set, including a Precision of 0.766, Recall of 0.803, F1-Score of 0.784, and Accuracy of 0.916, demonstrating robust model performance.
+- Dataset & Methodology: Trained and evaluated on the MIT Restaurant Search NER dataset, employing effective data preprocessing and tokenization strategies for subword alignment.
+- Deployment & Accessibility: Successfully deployed and hosted the fine-tuned model on the Hugging Face Model Hub, making it readily accessible for inference and further use by the community.
+- Potential Impact: Demonstrates the ability to build components for real-world applications such as intelligent restaurant search engines, food delivery platforms, and conversational AI assistants for dining recommendations.
+
+This project not only highlights my skills in NLP and deep learning but also demonstrates my ability to tackle domain-specific problems and deploy models for practical use.  
+![Screenshot 2025-03-10 185601](https://github.com/user-attachments/assets/43ed56f8-b426-4ad9-bf7e-5de77677c848)
+![Screenshot 2025-03-10 201215](https://github.com/user-attachments/assets/af823ccd-6b28-47ed-a541-5b3690cced0b)
+
+
+
+---
+
 #### California Renewable Energy Forecasting & Emissions Optimization System
 
 

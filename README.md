@@ -44,7 +44,7 @@
 <a href="https://huggingface.co/niruthiha/restaurant-ner" target="_blank">
   <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="View The Model">
 </a>
-
+View The Model in Hugging Face
 
 <a href="https://drive.google.com/file/d/1024OmUDdoOz9B_ZG8JTbiwPnMdmSaFM8/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Read-Full%20Paper-blue?style=for-the-badge&logo=google-drive" alt="Read Full Paper">

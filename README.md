@@ -40,6 +40,9 @@
 #### Named Entity Recognition for Restaurant Search Queries
 
 [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Niruthiha/DistilBERT-based-NER-/tree/main)
+<a href="https://drive.google.com/file/d/168xcOa0MWeJ1eABL7P9hXeDhUooHUpbW/view?usp=drive_link" target="_blank">
+  <img src="https://drive.google.com/file/d/1024OmUDdoOz9B_ZG8JTbiwPnMdmSaFM8/view?usp=sharing" alt="Read Full Paper">
+</a>
 
 This project showcases my expertise in Natural Language Processing and model deployment by developing a Named Entity Recognition (NER) system specifically designed to understand restaurant search queries.  Leveraging the power of transfer learning, I fine-tuned a DistilBERT model to accurately extract key structured information like restaurant ratings, cuisines, locations, and amenities from free-form text.  This model excels at transforming natural language input into actionable data, demonstrating real-world applicability for enhancing search and recommendation systems. Key highlights include:
 

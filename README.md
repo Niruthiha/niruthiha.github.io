@@ -42,7 +42,7 @@
 [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Niruthiha/DistilBERT-based-NER-/tree/main)
 
 <a href="https://huggingface.co/niruthiha/restaurant-ner" target="_blank">
-  <img src="https://drive.google.com/file/d/1GY3J909PGgdDOtiRzYH1pmcMKa_aztQj/view" alt="View The Model">
+  <img src="https://drive.google.com/file/d/1GY3J909PGgdDOtiRzYH1pmcMKa_aztQj/view?usp=sharing" alt="View The Model">
 </a>
 
 

@@ -26,7 +26,7 @@
 ---
 
 ### Publications & Presentations
-- **Paper Accepted to IEEE-ICHI2025 (IEEE International Conference on Healthcare Informatics - ICHI 2025):**
+- **Paper Accepted to 2025 IEEE 13th International Conference on Healthcare Informatics (ICHI)**
   - Title: Multidimensional Analysis of Specific Language Impairment Using Unsupervised Learning Through PCA and Clustering
 - **Poster Presentation at the 2nd European Congress on Renewable Energy and Sustainable Development**  
   - Title: Predictive Modelling of Renewable Energy Generation and CO2 Emissions: Insights from U.S. Electricity Sector Data (2018-2023)

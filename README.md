@@ -1,8 +1,14 @@
 ## Portfolio 
 
-### Education
-- **M.S., Information Systems, Specializing in Data Science and Machine Learning Systems Engineering** - Northeastern University (Boston, MA) (April 2025)
-- **B.S., Mathematics and Statistics** - University of Toronto (April 2023) 
+## About Me
+Doctoral researcher specializing in AI/ML applications for Machine Learning and Software Engineering
+
+## Education
+- **Doctor of Philosophy - PhD, Engineering** - École de technologie supérieure (Expected May 2025)
+  - Researching and applying AI/LLMs for automated analysis and improvement of ML/Software Engineering practices
+  - Supervisors: Dr. Manel Abdellatif and Dr. Taher Ghaleb
+- **M.S., Information Systems, Data Science and ML Systems Engineering** - Northeastern University (April 2025)
+- **B.S., Mathematics and Statistics** - University of Toronto (April 2023)
 
 ### Related Courses
 <span style="color:grey">
@@ -30,9 +36,6 @@
   - Title: Multidimensional Analysis of Specific Language Impairment Using Unsupervised Learning Through PCA and Clustering
 - **Poster Presentation at the 2nd European Congress on Renewable Energy and Sustainable Development**  
   - Title: Predictive Modelling of Renewable Energy Generation and CO2 Emissions: Insights from U.S. Electricity Sector Data (2018-2023)
-- **Paper Accepted to The 26th Annual Media Ecology Association Convention**  
-  - Title: Multi-Agent Framework for Multimodal Hate Speech Detection
-
 ---
 
 ### Highlighted Projects

@@ -21,7 +21,7 @@ Doctoral researcher specializing in AI/ML applications for Machine Learning and 
 
 ### Professional Experience
 
-- **Machine Learning Associate** - Vector Institute for Artificial Intelligence
+- **Machine Learning Engineer** - Vector Institute for Artificial Intelligence
 - **Graduate Teaching Assistant** - Northeastern University
 
 ### Professional Activities

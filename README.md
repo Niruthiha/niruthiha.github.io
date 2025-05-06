@@ -4,7 +4,7 @@
 Doctoral researcher specializing in AI/ML applications for Machine Learning and Software Engineering
 
 ## Education
-- **Doctor of Philosophy - PhD, Engineering** - École de technologie supérieure 
+- **Doctor of Philosophy - PhD, Engineering** - École de technologie supérieure (Year 1)
   - Supervisors: Dr. Manel Abdellatif and Dr. Taher Ghaleb
 - **M.S., Information Systems, Data Science and ML Systems Engineering** - Northeastern University (April 2025)
 - **B.S., Mathematics and Statistics** - University of Toronto (April 2023)

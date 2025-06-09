@@ -84,7 +84,7 @@ Impact & Results:
 
 ##### 84% Precision - Reduced false alarms by 13.5%, saving operational costs
 ##### 80% Recall - Detected 14% more fraudulent transactions, preventing financial losses
-##### 96.7% AUC Score - Outperformed standard industry benchmarks by 11% on average
+##### PR-AUC - 89.2% I used Precision-Recall AUC instead of ROC-AUC because with such extreme class imbalance (0.17% fraud), ROC can be misleadingly optimistic. PR-AUC better reflects performance on the critical minority class.
 
 ##### Why This Matters: 
 Financial fraud detection is a $32 billion market with direct business impact. This project demonstrates my ability to solve complex, imbalanced data problems that are common in finance, healthcare, and security - delivering measurable ROI through improved accuracy and reduced operational costs.

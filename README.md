@@ -71,7 +71,28 @@ This project not only highlights my skills in NLP and deep learning but also dem
 
 
 ---
+####  Card Fraud Detection: Anomaly Detection
+<a href="https://drive.google.com/file/d/1Tf296gT8k77i_R57fObik7Ek-vuwzdpZ/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/Read-Full%20Paper-blue?style=for-the-badge&logo=google-drive" alt="Read Full Paper">
+</a>
 
+##### The Challenge: 
+Built an AI system to detect credit card fraud in highly imbalanced data where only 0.17% of 284,000+ transactions were fraudulent - a critical problem costing financial institutions billions annually.
+##### My Solution: 
+Developed an advanced Random Forest model with SMOTE oversampling technique to balance the dataset and improve fraud detection accuracy.
+Impact & Results:
+
+##### 84% Precision - Reduced false alarms by 13.5%, saving operational costs
+##### 80% Recall - Detected 14% more fraudulent transactions, preventing financial losses
+##### 96.7% AUC Score - Outperformed standard industry benchmarks by 11% on average
+
+##### Why This Matters: 
+Financial fraud detection is a $32 billion market with direct business impact. This project demonstrates my ability to solve complex, imbalanced data problems that are common in finance, healthcare, and security - delivering measurable ROI through improved accuracy and reduced operational costs.
+##### Technologies: Python, Scikit-learn, Random Forest, SMOTE, Statistical Analysis
+
+![image](https://github.com/user-attachments/assets/99998f78-3e2c-491c-9a94-cbe9d2ba7036)
+
+---
 #### California Renewable Energy Forecasting & Emissions Optimization System
 
 

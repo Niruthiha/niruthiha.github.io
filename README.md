@@ -44,10 +44,6 @@ Doctoral researcher specializing in AI/ML applications for Machine Learning and 
 <!-- Open in GitHub Badge -->
 [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Niruthiha/DistilBERT-based-NER-/tree/main)
 
-<!-- Hugging Face Model View Link -->
-<a href="https://huggingface.co/niruthiha/restaurant-ner" target="_blank">
-  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="View The Model">
-</a>
 <a href="https://huggingface.co/niruthiha/restaurant-ner" target="_blank">
   <p>View The Model in Hugging Face (800+ model downloads as of June 2025)</p>
 </a>

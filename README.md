@@ -48,8 +48,9 @@ Doctoral researcher specializing in AI/ML applications for Machine Learning and 
 <a href="https://huggingface.co/niruthiha/restaurant-ner" target="_blank">
   <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="View The Model">
 </a>
-<p>View The Model in Hugging Face (800+ model downloads as of June 2025) </p>
-
+<a href="https://huggingface.co/niruthiha/restaurant-ner" target="_blank">
+  <p>View The Model in Hugging Face (800+ model downloads as of June 2025)</p>
+</a>
 <!-- Full Paper Link -->
 <a href="https://drive.google.com/file/d/1024OmUDdoOz9B_ZG8JTbiwPnMdmSaFM8/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Read-Full%20Paper-blue?style=for-the-badge&logo=google-drive" alt="Read Full Paper">

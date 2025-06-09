@@ -90,7 +90,8 @@ Impact & Results:
 Financial fraud detection is a $32 billion market with direct business impact. This project demonstrates my ability to solve complex, imbalanced data problems that are common in finance, healthcare, and security - delivering measurable ROI through improved accuracy and reduced operational costs.
 ##### Technologies: Python, Scikit-learn, Random Forest, SMOTE, Statistical Analysis
 
-![image](https://github.com/user-attachments/assets/99998f78-3e2c-491c-9a94-cbe9d2ba7036)
+![image](https://github.com/user-attachments/assets/749ab024-b7a2-4118-9587-e58827ed548e)
+
 
 ---
 #### California Renewable Energy Forecasting & Emissions Optimization System

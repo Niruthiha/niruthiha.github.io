@@ -125,7 +125,6 @@ Below are some of my key projects demonstrating my skills and experience. Each p
 **Technical Stack:** Python, SQL, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, PuLP, Git.
 **Data Source:** U.S. Energy Information Administration (EIA) "Hourly Electric Grid Monitor" dataset.
 
-![image](https://github.com/user-attachments/assets/f7be312f-d3a7-447f-a6b5-4999b142ca9b)
 
 ---
 

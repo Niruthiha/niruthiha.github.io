@@ -75,7 +75,7 @@ Below are some of my key projects demonstrating my skills and experience. Each p
 
 **Impact & Results:**
 * Achieved **robust performance** with a **Precision of 0.766, Recall of 0.803, F1-Score of 0.784, and Accuracy of 0.916** on the MIT Restaurant Search NER dataset.
-* **Successfully deployed and hosted** the model on Hugging Face Model Hub, resulting in **800+ model downloads**, demonstrating real-world applicability and community value.
+* **Successfully deployed and hosted** the model on Hugging Face Model Hub, resulting in **1000+ model downloads**, demonstrating real-world applicability and community value.
 * Demonstrates expertise in NLP, deep learning, domain-specific problem-solving, and MLOps (model deployment).
 
 ![Screenshot 2025-03-10 185601](https://github.com/user-attachments/assets/43ed56f8-b426-4ad9-bf7e-5de77677c848)

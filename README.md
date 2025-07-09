@@ -63,7 +63,7 @@ Below are some of my key projects demonstrating my skills and experience. Each p
 
 [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Niruthiha/DistilBERT-based-NER-/tree/main)
 <a href="https://huggingface.co/niruthiha/restaurant-ner" target="_blank">
-  <p>View The Model in Hugging Face (1000+ model downloads as of June 2025)</p>
+  <p>View The Model in Hugging Face (1000+ model downloads as of July 2025)</p>
 </a>
 <a href="https://drive.google.com/file/d/1024OmUDdoOz9B_ZG8JTbiwPnMdmSaFM8/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Read-Full%20Paper-blue?style=for-the-badge&logo=google-drive" alt="Read Full Paper">

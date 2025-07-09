@@ -43,7 +43,7 @@ I'm passionate about building robust, scalable, and impactful AI solutions, evid
 ## 🌐 Professional Activities
 
 * **Member** - Data Science Institute @ University of Toronto
-* **Ambassador** - Google Women Techmakers (Jul 2024 - Present)
+* **Ambassador** - Google Women Techmakers
 ---
 
 ## 📝 Publications & Presentations

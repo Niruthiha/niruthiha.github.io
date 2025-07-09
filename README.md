@@ -1,14 +1,12 @@
-Welcome to my professional portfolio! I'm a doctoral researcher specializing in the intersection of AI/ML applications and Software Engineering. This repository showcases my expertise in developing innovative solutions for complex, real-world challenges across Natural Language Processing, MLOps, advanced predictive modeling, and strategic AI system deployment.
 
-My goal is to deliver measurable impact and drive technological advancement within the AI, Data Science, and Software Engineering communities.
-
----
 
 ## 💡 About Me
 
+Welcome to my professional portfolio!  
+
 I am a **Doctoral Researcher** at École de technologie supérieure, where I focus on cutting-edge AI to automate software maintenance and MLOps. My background combines a strong foundation in **Data Science and Machine Learning Systems** from Northeastern University with a **B.S. in Mathematics and Statistics** from the University of Toronto.
 
-I'm passionate about building robust, scalable, and impactful AI solutions, evidenced by my diverse project portfolio and contributions to academic research.
+This repository showcases my expertise in developing innovative solutions for complex, real-world challenges across Natural Language Processing, MLOps, advanced predictive modeling, and strategic AI system deployment.
 
 ---
 

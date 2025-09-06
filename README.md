@@ -38,19 +38,19 @@ This repository showcases my expertise in developing innovative solutions for co
 
 ---
 
-## 🌐 Professional Activities
-
-* **Member** - Data Science Institute @ University of Toronto
-* **Ambassador** - Google Women Techmakers
----
-
 ## 📝 Publications & Presentations
+
+* **Paper Submitted to AAAI 2026**
+    * Title: *The Unimodal Bottleneck: An Analysis of GPT-4o mini's Safety Overrides in Multimodal Hate Speech Detection*
+
+* **Paper Submitted to ICSOC 2025**
+    * Title: *MLmisFinder: A Specification and Detection Approach of Machine Learning Service Misuses*
 
 * **Paper Accepted to 2025 IEEE 13th International Conference on Healthcare Informatics (ICHI)**
     * Title: *Multidimensional Analysis of Specific Language Impairment Using Unsupervised Learning Through PCA and Clustering*
+
 * **Poster Presentation at the 2nd European Congress on Renewable Energy and Sustainable Development**
     * Title: *Predictive Modelling of Renewable Energy Generation and CO2 Emissions: Insights from U.S. Electricity Sector Data (2018-2023)*
-
 ---
 
 ## ✨ Highlighted Projects

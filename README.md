@@ -51,10 +51,7 @@ This repository showcases my expertise in developing innovative solutions for co
 
 * **Poster Presentation at the 2nd European Congress on Renewable Energy and Sustainable Development**
     * Title: *Predictive Modelling of Renewable Energy Generation and CO2 Emissions: Insights from U.S. Electricity Sector Data (2018-2023)*
----
 
-
----
 ## Highlighted Projects
 
 Below are some of my key projects demonstrating my skills and experience. Each project is structured to highlight the **challenge**, my **solution**, and the **impact/results** achieved.

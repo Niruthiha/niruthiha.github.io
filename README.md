@@ -56,7 +56,7 @@ This repository showcases my expertise in developing innovative solutions for co
 
 ----
 
-## ✨ Highlighted Projects
+## Highlighted Projects
 
 Below are some of my key projects demonstrating my skills and experience. Each project is structured to highlight the **challenge**, my **solution**, and the **impact/results** achieved.
 

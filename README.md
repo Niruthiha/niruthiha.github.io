@@ -80,7 +80,7 @@ Below are some of my key projects demonstrating my skills and experience. Each p
 
 ---
 
-### **3. Hybrid Graph Neural Network for Financial Fraud Detection**
+### **2. Hybrid Graph Neural Network for Financial Fraud Detection**
 <a href="[https://github.com/yourusername/fraud-detection-gnn](https://github.com/Niruthiha/hybrid-gnn-fraud-detection)" target="_blank">
   <img src="https://img.shields.io/badge/View-Project%20Code-green?style=for-the-badge&logo=github" alt="View Project Code">
 </a>
@@ -97,7 +97,8 @@ Below are some of my key projects demonstrating my skills and experience. Each p
 
 **Technologies:** Python, PyTorch, PyTorch Geometric, GraphSAGE, LightGBM, CUDA Optimization, Advanced Feature Engineering
 
-![Fraud Detection Results](https://github.com/user-attachments/assets/your-image-id-here)
+<img width="1320" height="780" alt="image" src="https://github.com/user-attachments/assets/aabc41ab-c6dc-46ac-aa3d-e08a530ab75b" />
+
 
 ---
 

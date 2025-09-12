@@ -90,11 +90,9 @@ Below are some of my key projects demonstrating my skills and experience. Each p
 **Solution:** Developed an innovative **Hybrid Graph Neural Network** combining GraphSAGE layers with deep tabular networks and cross-attention fusion. Engineered 200+ advanced features including temporal patterns, network connectivity metrics, and multi-dimensional risk scoring. Implemented memory-optimized graph construction handling 1.5M+ edges with fraud-aware weighting.
 
 **Impact & Results:**
-* **Achieved 96.76% ROC-AUC**, beating LightGBM baseline (96.27%) by **0.51%** - significant improvement in fraud detection
-* **86.18% PR-AUC** on highly imbalanced data, demonstrating robust performance on rare fraud cases  
+* **Achieved 86.18% PR-AUC**, beating LightGBM baseline (84.03%) by **~3** - significant improvement in fraud detection
 * **Production-ready system** processing 590K+ transactions with optimized memory usage (<15GB GPU)
-* Demonstrates advanced ML engineering skills: PyTorch optimization, numerical stability, scalable architecture
-
+* 
 **Technologies:** Python, PyTorch, PyTorch Geometric, GraphSAGE, LightGBM, CUDA Optimization, Advanced Feature Engineering
 
 <img width="1320" height="780" alt="image" src="https://github.com/user-attachments/assets/aabc41ab-c6dc-46ac-aa3d-e08a530ab75b" />

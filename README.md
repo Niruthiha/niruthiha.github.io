@@ -80,24 +80,24 @@ Below are some of my key projects demonstrating my skills and experience. Each p
 
 ---
 
-### **2. Card Fraud Detection: Anomaly Detection**
-
-<a href="https://drive.google.com/file/d/1Tf296gT8k77i_R57fObik7Ek-vuwzdpZ/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/Read-Full%20Paper-blue?style=for-the-badge&logo=google-drive" alt="Read Full Paper">
+### **3. Hybrid Graph Neural Network for Financial Fraud Detection**
+<a href="[https://github.com/yourusername/fraud-detection-gnn](https://github.com/Niruthiha/hybrid-gnn-fraud-detection)" target="_blank">
+  <img src="https://img.shields.io/badge/View-Project%20Code-green?style=for-the-badge&logo=github" alt="View Project Code">
 </a>
 
-**Challenge:** Designed an AI system to detect credit card fraud in a highly imbalanced dataset where only 0.17% of over 284,000 transactions were fraudulent, addressing a problem costing financial institutions billions annually.
+**Challenge:** Built a production-scale fraud detection system to identify fraudulent transactions in massive financial datasets. Processed 590,540 transactions with extreme class imbalance (3.5% fraud rate), requiring both tabular feature learning and complex network relationship modeling to surpass industry-standard gradient boosting methods.
 
-**Solution:** Developed an advanced **Random Forest model** integrated with the **SMOTE oversampling technique** to effectively balance the dataset and enhance fraud detection accuracy. Emphasized **Precision-Recall AUC (89.2%)** for robust evaluation on imbalanced data.
+**Solution:** Developed an innovative **Hybrid Graph Neural Network** combining GraphSAGE layers with deep tabular networks and cross-attention fusion. Engineered 200+ advanced features including temporal patterns, network connectivity metrics, and multi-dimensional risk scoring. Implemented memory-optimized graph construction handling 1.5M+ edges with fraud-aware weighting.
 
 **Impact & Results:**
-* **Reduced false alarms by 13.5% (84% Precision)**, leading to significant operational cost savings.
-* **Detected 14% more fraudulent transactions (80% Recall)**, directly preventing financial losses.
-* Demonstrates expertise in handling extreme class imbalance and delivering measurable ROI in critical financial applications.
+* **Achieved 96.76% ROC-AUC**, beating LightGBM baseline (96.27%) by **0.51%** - significant improvement in fraud detection
+* **86.18% PR-AUC** on highly imbalanced data, demonstrating robust performance on rare fraud cases  
+* **Production-ready system** processing 590K+ transactions with optimized memory usage (<15GB GPU)
+* Demonstrates advanced ML engineering skills: PyTorch optimization, numerical stability, scalable architecture
 
-**Technologies:** Python, Scikit-learn, Random Forest, SMOTE, Statistical Analysis
+**Technologies:** Python, PyTorch, PyTorch Geometric, GraphSAGE, LightGBM, CUDA Optimization, Advanced Feature Engineering
 
-![image](https://github.com/user-attachments/assets/749ab024-b7a2-4118-9587-e58827ed548e)
+![Fraud Detection Results](https://github.com/user-attachments/assets/your-image-id-here)
 
 ---
 

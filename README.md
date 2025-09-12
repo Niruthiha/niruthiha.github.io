@@ -85,7 +85,7 @@ Below are some of my key projects demonstrating my skills and experience. Each p
   <img src="https://img.shields.io/badge/View-Project%20Code-green?style=for-the-badge&logo=github" alt="View Project Code">
 </a>
 
-**Challenge:** Built a production-scale fraud detection system to identify fraudulent transactions in massive financial datasets. Processed 590,540 transactions with extreme class imbalance (3.5% fraud rate), requiring both tabular feature learning and complex network relationship modeling to surpass industry-standard gradient boosting methods.
+**Challenge:** Built a production-scale fraud detection system to identify fraudulent transactions in massive financial dataset - IEEE-CIS Fraud Detection dataset from Kaggle. Processed 590,540 transactions with extreme class imbalance (3.5% fraud rate), requiring both tabular feature learning and complex network relationship modeling to surpass industry-standard gradient boosting methods.
 
 **Solution:** Developed an innovative **Hybrid Graph Neural Network** combining GraphSAGE layers with deep tabular networks and cross-attention fusion. Engineered 200+ advanced features including temporal patterns, network connectivity metrics, and multi-dimensional risk scoring. Implemented memory-optimized graph construction handling 1.5M+ edges with fraud-aware weighting.
 

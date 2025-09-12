@@ -95,7 +95,7 @@ Below are some of my key projects demonstrating my skills and experience. Each p
 * 
 **Technologies:** Python, PyTorch, PyTorch Geometric, GraphSAGE, LightGBM, CUDA Optimization, Advanced Feature Engineering
 
-<img width="1320" height="780" alt="image" src="https://github.com/user-attachments/assets/aabc41ab-c6dc-46ac-aa3d-e08a530ab75b" />
+<img width="1000" height="787" alt="image" src="https://github.com/user-attachments/assets/09cfd202-4c9f-441d-97b6-2bdbce086ad6" />
 
 
 ---

@@ -19,16 +19,6 @@ This repository showcases my expertise in developing innovative solutions for co
 * **M.S. in Information Systems, Data Science and ML Systems Engineering** - Northeastern University (Expected: April 2025)
 * **B.S. in Mathematics and Statistics** - University of Toronto (April 2023)
 
-### Relevant Coursework
-
-* Application Engineering and Development
-* Prompt Engineering
-* Advanced Techniques with LLMs
-* Software Engineering
-* Data Science and Engineering
-* Advanced Data Science/Architecture
-* Data Management and Database Design
-
 ---
 
 ## Professional Experience

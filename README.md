@@ -1,6 +1,6 @@
 
 
-## 💡 About Me
+## About Me
 
 Welcome to my professional portfolio!  
 
@@ -12,7 +12,7 @@ This repository showcases my expertise in developing innovative solutions for co
 
 ---
 
-## 🎓 Education
+## Education
 
 * **Doctor of Philosophy (Ph.D.) in Engineering** - École de technologie supérieure (Current, Year 1)
     * Supervisors: Dr. Manel Abdellatif and Dr. Taher Ghaleb
@@ -31,7 +31,7 @@ This repository showcases my expertise in developing innovative solutions for co
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 * **Machine Learning Engineer** - Vector Institute for Artificial Intelligence
     * *Worked on LLMs, NLP, and Generative AI project, HAPI 24/7 SMS service at Duologue Systems to incorporate Agentic AI-driven conversational systems with LangGraph and OpenAI Agents SDK. Human-in-the-loop (HITL) auditing.*
@@ -40,7 +40,7 @@ This repository showcases my expertise in developing innovative solutions for co
 
 ---
 
-## 📝 Publications & Presentations
+## Publications & Presentations
 
 * **Paper Submitted to AAAI 2026**
     * Title: *The Unimodal Bottleneck: An Analysis of GPT-4o mini's Safety Overrides in Multimodal Hate Speech Detection*

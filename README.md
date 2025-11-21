@@ -4,7 +4,9 @@
 
 Welcome to my professional portfolio!  
 
-I am a **Doctoral Researcher** at École de technologie supérieure, where I focus on cutting-edge AI to automate software maintenance and MLOps. My background combines a strong foundation in **Data Science and Machine Learning Systems** from Northeastern University with a **B.S. in Mathematics and Statistics** from the University of Toronto.
+I am a **Doctoral Researcher** at École de technologie supérieure, where I focus on cutting-edge AI to automate software maintenance and MLOps, AI Safety and Software Engineering. My current work investigates Technical Debts in LLMs—developing neuro-symbolic tools to detect hidden bugs and security risks in AI-generated code. I NLP with program analysis to build QA systems for the AI era.
+
+My background combines a strong foundation in **Data Science and Machine Learning Systems** from Northeastern University with a **B.S. in Mathematics and Statistics** from the University of Toronto.
 
 This repository showcases my expertise in developing innovative solutions for complex, real-world challenges across Natural Language Processing, MLOps, advanced predictive modeling, and strategic AI system deployment.
 

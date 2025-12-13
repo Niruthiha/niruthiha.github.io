@@ -33,7 +33,7 @@ This repository showcases my expertise in developing innovative solutions for co
 ## Publications & Presentations
 
 * **SANER 2026 – IEEE International Conference on Software Analysis, Evolution and Reengineering**
-    * Title: *The Unimodal Bottleneck: An Analysis of GPT-4o mini's Safety Overrides in Multimodal Hate Speech Detection*
+    * Title: *MLmisFinder: A Specification and Detection Approach of Machine Learning Service Misuses*
 
 * **Paper Accepted to 2025 IEEE 13th International Conference on Healthcare Informatics (ICHI)**
     * Title: *Multidimensional Analysis of Specific Language Impairment Using Unsupervised Learning Through PCA and Clustering*

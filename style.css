@@ -86,6 +86,16 @@ a:hover {
   margin: 0 0 0.35rem;
   letter-spacing: 0.02em;
 }
+.pronounce {
+  margin: 0 0 0.7rem;
+  color: var(--muted);
+  font-size: 0.85rem;
+  font-style: italic;
+}
+.pronounce span {
+  letter-spacing: 0.05em;
+  color: var(--accent-warm);
+}
 .tagline {
   margin: 0 0 0.9rem;
   color: var(--muted);

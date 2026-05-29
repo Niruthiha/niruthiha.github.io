@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Projects · Niruthiha Selvanayagam</title>
+  <meta name="description" content="Selected applied machine learning and data projects by Niruthiha Selvanayagam." />
+  <meta name="author" content="Niruthiha Selvanayagam" />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cpath d='M26 5C13 5 6 12 6 23c0 1 0 2 .3 3C14 18 19 14 24 12c-4 3-9 7-15 16 2 .6 4 .9 6 .9C26 29 28 17 26 5z' fill='%238b2e3c'/%3E%3C/svg%3E" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main>
+    <p class="back"><a href="index.html">&larr; Back to home</a></p>
+
+    <h1 class="page-title">Selected projects</h1>
+
+    <section id="projects">
+      <ul class="project-list">
+        <li>
+          <h3>Fraud Detection with Hybrid Graph Neural Networks</h3>
+          <p>Hybrid GNN architecture for transaction fraud detection, achieving 86.18% PR-AUC.</p>
+          <p class="meta">Graph ML · PyTorch</p>
+        </li>
+        <li>
+          <h3>Climate Chatbot (RAG)</h3>
+          <p>Retrieval-augmented generation chatbot for climate information. 2nd place at hackathon.</p>
+          <p class="meta">RAG · LangGraph</p>
+        </li>
+        <li>
+          <h3>Renewable Energy Forecasting</h3>
+          <p>End-to-end ETL pipeline and forecasting with optimization for renewable energy output.</p>
+          <p class="meta">MLOps · Time series</p>
+        </li>
+        <li>
+          <h3>Named Entity Recognition with DistilBERT</h3>
+          <p>Fine-tuned a DistilBERT NER model, published to the Hugging Face Hub with 1,000+ downloads.</p>
+          <p class="meta">NLP · PyTorch · Hugging&nbsp;Face</p>
+        </li>
+        <li>
+          <h3>Hateful Meme Detection</h3>
+          <p>Multi-agent GPT-4 system for multimodal hateful-content detection, reaching 93% recall.</p>
+          <p class="meta">Multimodal · GPT-4</p>
+        </li>
+        <li>
+          <h3>LLM Fine-tuning with Direct Preference Optimization</h3>
+          <p>Preference-based fine-tuning of large language models using DPO.</p>
+          <p class="meta">LLMs · DPO</p>
+        </li>
+        <li>
+          <h3>Maternal Health Risk Prediction</h3>
+          <p>Ensemble ML system predicting maternal health risk levels.</p>
+          <p class="meta">Classification · scikit-learn</p>
+        </li>
+      </ul>
+      <p class="more"><a href="https://github.com/Niruthiha">All projects on GitHub &rarr;</a></p>
+    </section>
+
+    <footer>
+      <p><a href="index.html">&larr; Back to home</a> &middot; <a class="email" data-user="niruthiha2000" data-domain="outlook.com">niruthiha2000 [at] outlook [dot] com</a></p>
+    </footer>
+  </main>
+  <script>
+    document.querySelectorAll("a.email").forEach(function (a) {
+      a.href = "mailto:" + a.dataset.user + "@" + a.dataset.domain;
+    });
+  </script>
+</body>
+</html>
